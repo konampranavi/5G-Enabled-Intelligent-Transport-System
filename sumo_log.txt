@@ -1,0 +1,20 @@
+Warning: Environment variable SUMO_HOME is not set properly, disabling XML validation. Set 'auto' or 'always' for web lookups.
+Loading net-file from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\acosta_buslanes.net.xml' ... done (190ms).
+Loading additional-files from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\acosta_vtypes.add.xml' ... done (46ms).
+Loading additional-files from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\acosta_detectors.add.xml' ... done (43ms).
+Loading additional-files from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\acosta_bus_stops.add.xml' ... done (37ms).
+Loading additional-files from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\acosta_tls.add.xml' ... done (34ms).
+Loading route-files incrementally from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\acosta.rou.xml'
+Loading route-files incrementally from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\acosta_busses.rou.xml'
+Loading route-files incrementally from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\TEST_ambulance.rou.xml'
+Loading route-files incrementally from 'C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\ambulances_test.rou.xml'
+Loading done.
+Simulation ended at time: 0.00.
+Performance:
+ Duration: 2009.28s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles:
+ Inserted: 0 (Loaded: 19)
+ Running: 0
+ Waiting: 0

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <vType id="ambulance"
+           vClass="emergency"
+           color="1,0,0"
+           length="10"
+           maxSpeed="50"
+           guiShape="emergency"/>
+</additional>

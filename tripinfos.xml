@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-04-10T15:46:37.226182+05:30 by Eclipse SUMO GUI 1.25.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\acosta_buslanes.net.xml"/>
+        <route-files value="C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\         acosta.rou.xml,C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\         acosta_busses.rou.xml,C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\         TEST_ambulance.rou.xml,C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\ ambulances_test.rou.xml"/>
+        <additional-files value="C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\         acosta_vtypes.add.xml,C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\         acosta_detectors.add.xml,C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\         acosta_bus_stops.add.xml,C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\         acosta_tls.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\tripinfos.xml"/>
+    </output>
+
+    <report>
+        <log value="C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\sumo_log.txt"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <gui_only>
+        <gui-settings-file value="C:\Users\Pranavi\Downloads\LAPTOP BACKUP\Bologna_small-0.29.0\acosta\settings.gui.xml"/>
+    </gui_only>
+
+</sumoConfiguration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+</tripinfos>

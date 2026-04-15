@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+
+    <!-- Passenger vehicles -->
+    <vTypeDistribution id="passenger">
+        <vType id="passenger_red"    vClass="passenger" color=".8,.2,.2" probability=".4"/>
+        <vType id="passenger_white"  vClass="passenger" color=".8,.8,.8" probability=".2"/>
+        <vType id="passenger_blue"   vClass="passenger" color=".2,.2,.8" probability=".2"/>
+        <vType id="passenger_black"  vClass="passenger" color=".3,.3,.3" probability=".1"/>
+        <vType id="passenger_yellow" vClass="passenger" color=".8,.8,.0" probability=".1"/>
+    </vTypeDistribution>
+
+    <!-- Private vehicles -->
+    <vTypeDistribution id="private">
+        <vType id="private_red"    vClass="passenger" color=".8,.2,.2" probability=".4"/>
+        <vType id="private_white"  vClass="passenger" color=".8,.8,.8" probability=".2"/>
+        <vType id="private_blue"   vClass="passenger" color=".2,.2,.8" probability=".2"/>
+        <vType id="private_black"  vClass="passenger" color=".3,.3,.3" probability=".1"/>
+        <vType id="private_yellow" vClass="passenger" color=".8,.8,.0" probability=".1"/>
+    </vTypeDistribution>
+
+    <!-- Ignoring vehicles -->
+    <vTypeDistribution id="ignoring">
+        <vType id="ignoring_red"    vClass="ignoring" color=".8,.2,.2" probability=".4"/>
+        <vType id="ignoring_white"  vClass="ignoring" color=".8,.8,.8" probability=".2"/>
+        <vType id="ignoring_blue"   vClass="ignoring" color=".2,.2,.8" probability=".2"/>
+        <vType id="ignoring_black"  vClass="ignoring" color=".3,.3,.3" probability=".1"/>
+        <vType id="ignoring_yellow" vClass="ignoring" color=".8,.8,.0" probability=".1"/>
+    </vTypeDistribution>
+
+    <!-- Bus -->
+    <vType id="bus"
+           vClass="bus"
+           length="12"
+           maxSpeed="70"/>
+
+    <!-- 🚑 Pink / Peach Emergency Ambulance -->
+    <vType id="ambulance"
+           vClass="emergency"
+           color="1,0.4,0.7"
+           length="7"
+           maxSpeed="33"
+           speedFactor="1.3"
+           impatience="1.0"
+           guiShape="emergency"/>
+
+</additional>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+
+    <!-- 🚑 Ambulance 1 -->
+    <vehicle id="ambulance_1"
+             type="ambulance"
+             depart="100"
+             departLane="best"
+             departPos="0">
+        <route edges="78[0] 56a 56b 77bc 77cd 53cd 53[0] 53[1][0] 79 68 11 84 180 136"/>
+    </vehicle>
+
+    <!-- 🚑 Ambulance 2 -->
+    <vehicle id="ambulance_2"
+             type="ambulance"
+             depart="300"
+             departLane="best"
+             departPos="0">
+        <route edges="210 43[0] 43[1] 201 201c 204a[0] 124 114"/>
+    </vehicle>
+
+    <!-- 🚑 Ambulance 3 -->
+    <vehicle id="ambulance_3"
+             type="ambulance"
+             depart="517"
+             departLane="best"
+             departPos="0">
+        <route edges="8 9 211 45 44 36 40 41 160 61 58[0] 58[1] 200 60"/>
+    </vehicle>
+
+</routes>

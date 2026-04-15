@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <vehicle id="AMBULANCE_TEST"
+             type="ambulance"
+             depart="0"
+             departSpeed="0">
+        <route edges="85 72[0] 72[1] 69 161 122 1b 1 204a[0] 204b[0] 204[1][0] 204[1][1]"/>
+    </vehicle>
+</routes>
