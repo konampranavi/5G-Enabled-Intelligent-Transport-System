@@ -47,4 +47,4 @@ This project aims to solve these issues using real-time communication and intell
 ## ▶️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/5G-Intelligent-Transport-System.git
+   git clone https://github.com/konampranavi/5G-Intelligent-Transport-System.git
